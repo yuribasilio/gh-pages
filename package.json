@@ -6,7 +6,7 @@
   "homepage": "gh-pages/",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build --base=/gh-pages/",
+    "build": "tsc && vite build --base=https://yurinhoo.github.io/gh-pages/",
     "preview": "vite preview"
   },
   "dependencies": {
