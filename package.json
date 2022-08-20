@@ -6,7 +6,7 @@
   "homepage": "gh-pages/",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
+    "build": "tsc && vite build --base=/gh-pages/",
     "preview": "vite preview"
   },
   "dependencies": {
